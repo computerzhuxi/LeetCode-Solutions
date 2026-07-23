@@ -36,7 +36,7 @@ public:
                 }
                 else
                 {
-                    r = mid - 1l
+                    r = mid - 1;
                 }
             }
         }
